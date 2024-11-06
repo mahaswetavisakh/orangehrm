@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-28T10:23:41 IST" name="Default suite" finished-at="2024-10-28T10:23:56 IST" duration-ms="15342">
+    <groups>
+    </groups>
+    <test started-at="2024-10-28T10:23:41 IST" name="Default test" finished-at="2024-10-28T10:23:56 IST" duration-ms="15342">
+      <class name="orangehrm.Orangelink">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:orangehrm.Orangelink@27ff5d15]" started-at="2024-10-28T10:23:41 IST" name="launchBrowser" finished-at="2024-10-28T10:23:49 IST" duration-ms="7548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:orangehrm.Orangelink@27ff5d15]" started-at="2024-10-28T10:23:49 IST" name="login" finished-at="2024-10-28T10:23:51 IST" duration-ms="2490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="employeeDetails()[pri:0, instance:orangehrm.Orangelink@27ff5d15]" started-at="2024-10-28T10:23:51 IST" name="employeeDetails" finished-at="2024-10-28T10:23:56 IST" duration-ms="4476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeDetails -->
+        <test-method is-config="true" signature="save()[pri:0, instance:orangehrm.Orangelink@27ff5d15]" started-at="2024-10-28T10:23:56 IST" name="save" finished-at="2024-10-28T10:23:56 IST" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- save -->
+      </class> <!-- orangehrm.Orangelink -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
